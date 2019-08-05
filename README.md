@@ -1,3 +1,3 @@
 # Projeto E-commerce
 
-Projeto desenvolvido de uma loja virtual
+Projeto em desenvolvimento de uma loja virtual.
